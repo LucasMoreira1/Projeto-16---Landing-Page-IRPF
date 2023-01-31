@@ -206,7 +206,7 @@
 				<div class="elementor-element elementor-element-9424611 elementor-align-center delay animated-fast elementor-widget elementor-widget-button" data-id="9424611" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:1695000}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://smartfunnel.wendellcarvalho.com.br/sf/?sfunnel=1835&amp;gclid=CjwKCAiAleOeBhBdEiwAfgmXf6kNGNNJfp_ifdfXW48EK-W5eLcrIW5sCXCSpo1ESMR97YLSpSMMqBoCIcsQAvD_BwE&amp;ref=A78651713H" target="_blank" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+			<a href="https://pay.hotmart.com/B79153406L?off=lnflvbgg&checkoutMode=10" target="_blank" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">comprar agora</span>
 		</span>
