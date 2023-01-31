@@ -172,13 +172,279 @@
             </div>
         </div>
         <!-- Call to action-->
-        <!--<section class="page-section bg-dark text-white">
-            <div class="container px-4 px-lg-5 text-center">
-                <h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-                <a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
-            </div>
+        <section class="page-section bg-dark text-white">
+        <div class="elementor-element elementor-element-0cdacfe e-con-boxed e-con" data-id="0cdacfe" data-element_type="container" id="ingresso" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-972c7cc elementor-position-left elementor-widget__width-inherit elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="972c7cc" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Participe do <b>Protagon em 2023</b></h3><p class="elementor-image-box-description"><b style="color:#B10406;">SÃO PAULO</b></p></div></div>		</div>
+				</div>
+		<div class="elementor-element elementor-element-ba29148 e-con-full e-con" data-id="ba29148" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-3175f66 e-con-full e-con" data-id="3175f66" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b910bc6 elementor-widget elementor-widget-heading" data-id="b910bc6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">EXECUTIVO</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-176f713 elementor-widget elementor-widget-text-editor" data-id="176f713" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRE UM E GANHE OUTRO</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9c38886 elementor-widget elementor-widget-text-editor" data-id="9c38886" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span style="font-weight: 400;"><s>De R$4.161,67</s></span>
+<br>
+<span style="font-weight: 400;">POR APENAS 12X DE</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-52ec93d elementor-widget elementor-widget-text-editor" data-id="52ec93d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							R$ 243,28						</div>
+				</div>
+				<div class="elementor-element elementor-element-27a5970 elementor-widget elementor-widget-text-editor" data-id="27a5970" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">OU À VISTA </span><span style="font-weight: 400;">R$2.497,00</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9424611 elementor-align-center delay animated-fast elementor-widget elementor-widget-button" data-id="9424611" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:1695000}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://smartfunnel.wendellcarvalho.com.br/sf/?sfunnel=1835&amp;gclid=CjwKCAiAleOeBhBdEiwAfgmXf6kNGNNJfp_ifdfXW48EK-W5eLcrIW5sCXCSpo1ESMR97YLSpSMMqBoCIcsQAvD_BwE&amp;ref=A78651713H" target="_blank" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">comprar agora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bc9bea1 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bc9bea1" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Acesso aos 3 dias de evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Material completo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Mapa da Clareza</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Grupo de acompanhamento pós-evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#assentos">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text"><u>Assento Executivo</u><span style="color:red;font-size:20px;"><b>*</b></span>
+											</span></a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ad44b50 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ad44b50" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Mentoria em grupo com Wendell Carvalho e Karina Peloi</s></span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Acesso ao lounge, com frutas, café e acesso à internet,       local de network nos 3 dias de evento</s></span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Melhor Assento do Evento</s></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4708daa e-con-full e-con" data-id="4708daa" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-2e1a8ba elementor-widget elementor-widget-heading" data-id="2e1a8ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">VIP</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d94d3e9 elementor-widget elementor-widget-text-editor" data-id="d94d3e9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRE UM E GANHE OUTRO</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-26c111a elementor-widget elementor-widget-text-editor" data-id="26c111a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span style="font-weight: 400;">
+<s>De R$5.828,33</s></span>
+<br>
+<span style="font-weight: 400;">POR APENAS 12X DE</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-118fedd elementor-widget elementor-widget-text-editor" data-id="118fedd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>R$340,70</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-95000f4 elementor-widget elementor-widget-text-editor" data-id="95000f4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">OU À VISTA R$ 3.497,00</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-970aca2 elementor-align-center delay animated-fast elementor-widget elementor-widget-button" data-id="970aca2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:1695000}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://smartfunnel.wendellcarvalho.com.br/sf/?sfunnel=1836&amp;gclid=CjwKCAiAleOeBhBdEiwAfgmXf6kNGNNJfp_ifdfXW48EK-W5eLcrIW5sCXCSpo1ESMR97YLSpSMMqBoCIcsQAvD_BwE&amp;ref=A78651713H" target="_blank" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">comprar agora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c5c0cf8 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c5c0cf8" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Acesso aos 3 dias de evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Material completo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Mapa da Clareza</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Grupo de acompanhamento pós-evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#assentos">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text"><u>Assento V.I.P</u><span style="color:red;font-size:20px;"><b>*</b></span>
+											</span></a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c38f2b2 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c38f2b2" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Mentoria em grupo com Wendell Carvalho e Karina Peloi</s></span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Acesso ao lounge, com frutas, café e acesso à internet,       local de network nos 3 dias de evento</s></span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-times"></i>						</span>
+										<span class="elementor-icon-list-text"><s>Melhor Assento do Evento</s></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-21c9204 e-con-full e-con" data-id="21c9204" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-09770fd elementor-widget elementor-widget-heading" data-id="09770fd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DIAMOND</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-80f3d95 elementor-widget elementor-widget-text-editor" data-id="80f3d95" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>COMPRE UM E GANHE OUTRO</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3d59676 elementor-widget elementor-widget-text-editor" data-id="3d59676" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span style="font-weight: 400;"><s>De R$11.661,67</s></span>
+<br>
+<span style="font-weight: 400;">POR APENAS 12X DE</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c87756e elementor-widget elementor-widget-text-editor" data-id="c87756e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>R$681,70</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-77914f7 elementor-widget elementor-widget-text-editor" data-id="77914f7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-weight: 400;">OU À VISTA </span><span style="font-weight: 400;">R$ 6.997,00</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c5d538f elementor-align-center delay animated-fast elementor-widget elementor-widget-button" data-id="c5d538f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_mobile&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:1695000}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://smartfunnel.wendellcarvalho.com.br/sf/?sfunnel=1837&amp;gclid=CjwKCAiAleOeBhBdEiwAfgmXf6kNGNNJfp_ifdfXW48EK-W5eLcrIW5sCXCSpo1ESMR97YLSpSMMqBoCIcsQAvD_BwE&amp;ref=A78651713H" target="_blank" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">comprar agora</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cc1ad0f elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="cc1ad0f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Acesso aos 3 dias de evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Material completo</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Mapa da Clareza</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Grupo de acompanhamento pós-evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-gem"></i>						</span>
+										<span class="elementor-icon-list-text">Mentoria em grupo com Wendell Carvalho e Karina Peloi</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-gem"></i>						</span>
+										<span class="elementor-icon-list-text">Acesso ao lounge, com frutas, café e acesso à internet,       local de network nos 3 dias de evento</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="#assentos">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-gem"></i>						</span>
+										<span class="elementor-icon-list-text"><u>Melhor Assento do Evento</u><span style="color:red;font-size:20px;"><b>*</b></span>
+											</span></a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
         </section>
-    -->
+    
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container px-4 px-lg-5">
