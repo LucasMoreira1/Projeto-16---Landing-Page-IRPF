@@ -172,6 +172,7 @@
             </div>
         </div>
         <!-- Call to action-->
+        <!--
         <section class="page-section bg-dark text-white">
         <div class="elementor-element elementor-element-0cdacfe e-con-boxed e-con" data-id="0cdacfe" data-element_type="container" id="ingresso" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
@@ -444,6 +445,7 @@
 					</div>
 				</div>
         </section>
+-->
     
         <!-- Contact-->
         <section class="page-section" id="contact">
