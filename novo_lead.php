@@ -10,9 +10,9 @@ $message = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim(md5($_POST[
 
 $sql = "INSERT INTO Leads (NOME, EMAIL, TELEFONE, MENSAGEM, DATA) VALUES ('$name', '$email', '$phone', '$message', NOW())";
 
-if($conexao_ADV_MOREIRA_CESAR->query($sql) === TRUE){
+if($conexao_IMPOSTO_DE_RENDA->query($sql) === TRUE){
     $_SESSION['cadastro_realizado'] = true;
 }
-$conexao_ADV_MOREIRA_CESAR->close();
+$conexao_IMPOSTO_DE_RENDA->close();
 header('Location: index.php');
 exit;

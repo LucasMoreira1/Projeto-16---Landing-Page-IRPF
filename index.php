@@ -68,7 +68,7 @@
                         <p class="text-white-75 mb-4">Para declarar seu Imposto de Renda de forma segura e eficiente, nós oferecemos orientações sobre as novidades e mudanças, bem como ferramentas para a preencher sua declaração.</p>
                         <p class="text-white-75 mb-4">Não espere até o último momento para se preparar, comece agora e evite problemas futuros. Com nossas orientações, você poderá declarar seu Imposto de Renda com tranquilidade e segurança.</p>
                         <p class="text-white-75 mb-4">Entre em contato para saber sobre como podemos ajudá-lo.</p>
-                        <a class="btn btn-light btn-xl" href="#services">Começe aqui!</a>
+                        <a class="btn btn-light btn-xl" href="#services">Comece aqui!</a>
                     </div>
                 </div>
             </div>
