@@ -501,21 +501,8 @@ session_start();
                             <!-- This is what your users will see when the form-->
                             <!-- has successfully submitted-->
                             <?php include('mensagem.php'); ?>
-
-                            <div class="d-none" id="submitSuccessMessage">
-                                <div class="text-center mb-3">
-                                    <div class="fw-bolder">Dados enviados!</div>
-                                    Entratemos em contato com você em breve!
-                                    <br />
-                                </div>
-                            </div>
-                            <!-- Submit error message-->
-                            <!---->
-                            <!-- This is what your users will see when there is-->
-                            <!-- an error submitting the form-->
-                            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Erro ao enviar dados!</div></div>
                             <!-- Submit Button-->
-                            <div class="d-grid"><button class="btn btn-primary btn-xl disabled" id="submitButton" type="submit" name="salvar_lead">Enviar</button></div>
+                            <div class="d-grid"><button class="btn btn-primary btn-xl disabled" id="salvar_lead" type="submit" name="salvar_lead">Enviar</button></div>
                         </form>
                     </div>
                 </div>
@@ -523,7 +510,7 @@ session_start();
                     <div class="col-lg-4 text-center mb-5 mb-lg-0">
                         <i class="bi-phone fs-2 mb-3 text-muted"></i>
                         <div>Dúvidas?</div>
-                        <a class="btn btn-primary" href="https://wa.me/5512997329778" role="Chame no Whatsapp, Clique aqui!">Link</a>
+                        <a class="btn btn-primary" href="https://wa.me/5512997329778" role="button">Chame no Whatsapp, Clique aqui!</a>
                     </div>
                 </div>
             </div>
