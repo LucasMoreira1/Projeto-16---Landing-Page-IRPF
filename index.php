@@ -517,7 +517,7 @@
                     <div class="col-lg-4 text-center mb-5 mb-lg-0">
                         <i class="bi-phone fs-2 mb-3 text-muted"></i>
                         <div>Dúvidas?</div>
-                        <a class="btn btn-light btn-xl" href="https://wa.me/5512997329778">Chame no Whatsapp!</a>
+                        <a class="btn btn-primary" href="https://wa.me/5512997329778" role="Chame no Whatsapp, Clique aqui!">Link</a>
                     </div>
                 </div>
             </div>
