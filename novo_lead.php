@@ -6,8 +6,8 @@ if (isset($_POST['salvar_lead']))
 {
     $name = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim($_POST['name']));
     $email = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim($_POST['email']));
-    $phone = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim(md5($_POST['phone'])));
-    $message = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim(md5($_POST['message'])));
+    $phone = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim(($_POST['phone'])));
+    $message = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim($_POST['message']));
     
     $sql = "INSERT INTO Leads (NOME, EMAIL, TELEFONE, MENSAGEM, DATA) VALUES ('$name', '$email', '$phone', '$message', NOW())";
     
