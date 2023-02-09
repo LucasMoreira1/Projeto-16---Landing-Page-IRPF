@@ -14,14 +14,14 @@ if (isset($_POST['salvar_lead']))
     $query_run = mysqli_query($conexao_IMPOSTO_DE_RENDA, $sql);
     if($query_run)
     {
-        $_SESSION['mensagem'] = "Dados enviados";
-        header('Location: index.php');
+        $_SESSION['mensagem'] = "Dados enviados, em breve entraremos em contato!";
+        header('Location: index.php#contact');
         exit(0);
     }
     else
     {
-        $_SESSION['mensagem'] = "Falha ao enviar os dados";
-        header('Location: index.php');
+        $_SESSION['mensagem'] = "Falha ao enviar os dados, verifique e tente novamente.";
+        header('Location: index.php#contact');
         exit(0);
     }
 }
