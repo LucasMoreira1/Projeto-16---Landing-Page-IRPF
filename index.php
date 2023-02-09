@@ -502,7 +502,7 @@ session_start();
                             <!-- has successfully submitted-->
                             <?php include('mensagem.php'); ?>
                             <!-- Submit Button-->
-                            <div class="d-grid"><button class="btn btn-primary btn-xl disabled" id="salvar_lead" type="submit" name="salvar_lead">Enviar</button></div>
+                            <div class="d-grid"><input class="btn btn-primary" name="salvar_lead" type="submit" value="Enviar"></div>
                         </form>
                     </div>
                 </div>
