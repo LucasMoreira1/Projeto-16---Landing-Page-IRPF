@@ -1,3 +1,7 @@
+<?php
+session_start();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -466,7 +470,7 @@
                         <!-- To make this form functional, sign up at-->
                         <!-- https://startbootstrap.com/solution/contact-forms-->
                         <!-- to get an API token!-->
-                        <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                        <form id="contactForm" data-sb-form-api-token="API_TOKEN" action="novo_lead.php" method="POST">
                             <!-- Name input-->
                             <div class="form-floating mb-3">
                                 <input class="form-control" id="name" name="name" type="text" placeholder="Insira seu nome..." data-sb-validations="required" />
@@ -496,6 +500,8 @@
                             <!---->
                             <!-- This is what your users will see when the form-->
                             <!-- has successfully submitted-->
+                            <?php include('mensagem.php'); ?>
+
                             <div class="d-none" id="submitSuccessMessage">
                                 <div class="text-center mb-3">
                                     <div class="fw-bolder">Dados enviados!</div>
