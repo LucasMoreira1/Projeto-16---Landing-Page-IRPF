@@ -479,14 +479,14 @@ session_start();
                             </div>
                             <!-- Email address input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" id="email" name="email" type="email" placeholder="nome@exemplo.com" data-sb-validations="required,email" />
+                                <input class="form-control" id="email" name="email" type="email" placeholder="nome@exemplo.com"/>
                                 <label for="email">Email</label>
-                                <div class="invalid-feedback" data-sb-feedback="email:required">E-mail necessário.</div>
-                                <div class="invalid-feedback" data-sb-feedback="email:email">E-mail não é valido.</div>
+                                <!-- <div class="invalid-feedback" data-sb-feedback="email:required">E-mail necessário.</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">E-mail não é valido.</div> -->
                             </div>
                             <!-- Phone number input-->
                             <div class="form-floating mb-3">
-                                <input class="form-control" id="phone" name="phone "type="tel" placeholder="(11)99999-9999" data-sb-validations="required" />
+                                <input class="form-control" id="phone" name="phone" type="tel" placeholder="(11)99999-9999" data-sb-validations="required" />
                                 <label for="phone">Telefone/WhatsApp</label>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">Telefone é necessário.</div>
                             </div>
@@ -494,7 +494,7 @@ session_start();
                             <div class="form-floating mb-3">
                                 <textarea class="form-control" id="message" name="message" type="text" placeholder="Insira sua mensagem aqui..." style="height: 10rem" ></textarea>
                                 <label for="message">Mensagem</label>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">Mensagem é necessária.</div>
+                                <!-- <div class="invalid-feedback" data-sb-feedback="message:required">Mensagem é necessária.</div> -->
                             </div>
                             <!-- Submit success message-->
                             <!---->
