@@ -9,7 +9,7 @@ if (isset($_POST['salvar_lead']))
     $phone = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim(($_POST['phone'])));
     $message = mysqli_real_escape_string($conexao_IMPOSTO_DE_RENDA, trim($_POST['message']));
     
-    $sql = "INSERT INTO Leads (NOME, EMAIL, TELEFONE, MENSAGEM, DATA, STATUS) VALUES ('$name', '$email', '$phone', '$message', NOW()), 'PENDENTE'";
+    $sql = "INSERT INTO Leads (NOME, EMAIL, TELEFONE, MENSAGEM, DATA, STATUS) VALUES ('$name', '$email', '$phone', '$message', NOW(), 'PENDENTE')";
     
     $query_run = mysqli_query($conexao_IMPOSTO_DE_RENDA, $sql);
     if($query_run)
