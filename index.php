@@ -56,8 +56,9 @@ session_start();
                         <hr class="divider" />
                     </div>
                     <div class="col-lg-8 align-self-baseline">
-                        <p class="text-white-75 mb-5">Preparar a declaração de Imposto de Renda pode ser simples e sem estresse com as nossas orientações</p>
-                        <a class="btn btn-primary btn-xl" href="#about">Saiba mais</a>
+                        <p class="text-white-75 mb-5">Declarar o Imposto de Renda pode ser simples e sem estresse com as nossas orientações</p>
+                        <p class="text-white-75 mb-5">Estamos com um valor promocional de R$70,00 para os 100 primeiros clientes.</p>
+                        <a class="btn btn-primary btn-xl" href="#contact">Garanta já!</a>
                     </div>
                 </div>
             </div>
@@ -70,9 +71,9 @@ session_start();
                         <h2 class="text-white mt-0">Nós temos o que você precisa!</h2>
                         <hr class="divider divider-light"/>
                         <p class="text-white-75 mb-4">Para declarar seu Imposto de Renda de forma segura e eficiente, nós oferecemos orientações sobre as novidades e mudanças, bem como ferramentas para a preencher sua declaração.</p>
-                        <p class="text-white-75 mb-4">Não espere até o último momento para se preparar, comece agora e evite problemas futuros. Com nossas orientações, você poderá declarar seu Imposto de Renda com tranquilidade e segurança.</p>
+                        <p class="text-white-75 mb-4">Não espere até o último momento para se preparar, comece agora e evite problemas futuros. Com nossa equipe, você poderá declarar seu Imposto de Renda com tranquilidade e segurança.</p>
                         <p class="text-white-75 mb-4">Entre em contato para saber sobre como podemos ajudá-lo.</p>
-                        <a class="btn btn-light btn-xl" href="#services">Comece aqui!</a>
+                        <a class="btn btn-light btn-xl" href="#contact">Entrar em contato!</a>
                     </div>
                 </div>
             </div>
@@ -114,7 +115,7 @@ session_start();
                 </div>
             </div>
         </section>
-        <!-- Portfolio-->
+        <!-- Portfolio
         <div id="portfolio">
             <div class="container-fluid p-0">
                 <div class="row g-0">
@@ -174,7 +175,7 @@ session_start();
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Call to action-->
         <!--
         <section class="page-section bg-dark text-white">
@@ -456,9 +457,10 @@ session_start();
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6 text-center">
-                        <h2 class="mt-0">Entre em contato!</h2>
+                        <h1 class="mt-0">Reserve agora!</h1>
+                        <h2 class="mt-0">Declaração por R$70,00</h2>
                         <hr class="divider" />
-                        <p class="text-muted mb-5">Não perca mais tempo se preocupando com sua declaração de Imposto de Renda. Deixe que nós cuidamos disso para você. Entre em contato conosco hoje mesmo e agende uma consulta.</p>
+                        <p class="text-muted mb-5">Preencha o formulário para reservar o valor promocional para sua declaração! Nós entraremos em contato. </p>
                     </div>
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
